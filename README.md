@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, eu sou Guilherme Pereira  
 
-<!--
-**GuilhermePereiraDeOliveira/guilhermepereiradeoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Aspirante a **Desenvolvedor Back-End**  
+🚀 Foco em **Java, Banco de Dados e Lógica de Programação**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias que estudo
+- C  
+- Java  
+- SQL (MySQL, PostgreSQL)  
+- Git & GitHub  
+- HTML5, CSS3, JavaScript  
+
+---
+
+## 📂 Projetos no GitHub
+- [🔢 Bubble Sort em C](https://github.com/seuusuario/bubble-sort-c)  
+- [🌡️ Temperaturas Mensais em C](https://github.com/seuusuario/temperatura-mensal-c)  
+- (mais projetos em breve 🚀)
+
+---
+
+## 🌱 Sobre mim
+Sou estudante da área de tecnologia, apaixonado por resolver problemas com programação.  
+Tenho como objetivo atuar como **Desenvolvedor Back-End** e estou sempre em busca de aprender novas tecnologias.  
+
+📫 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/seu-perfil/).  
