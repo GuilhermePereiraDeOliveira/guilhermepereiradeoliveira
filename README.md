@@ -26,4 +26,4 @@
 Sou estudante da área de tecnologia, apaixonado por resolver problemas com programação.  
 Tenho como objetivo atuar como **Desenvolvedor Back-End** e estou sempre em busca de aprender novas tecnologias.  
 
-📫 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/seu-perfil/).  
+📫 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/guilherme-pereira-de-oliveira-485078386/).  
