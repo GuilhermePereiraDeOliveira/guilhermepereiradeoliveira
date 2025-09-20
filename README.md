@@ -16,8 +16,6 @@
 ---
 
 ## 📂 Projetos no GitHub
-- [🔢 Bubble Sort em C](https://github.com/seuusuario/bubble-sort-c)  
-- [🌡️ Temperaturas Mensais em C](https://github.com/seuusuario/temperatura-mensal-c)  
 - (mais projetos em breve 🚀)
 
 ---
