@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Guilherme Pereira  
+# 👋 Olá, eu sou Guilherme Pereira de Oliveira
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Aspirante a **Desenvolvedor Back-End**  
